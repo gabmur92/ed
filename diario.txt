@@ -1,0 +1,5 @@
+20190916 lv
+
+creado usuario en github(gabmur92)
+creado repositorio: ed con README.md y .gitignore (plantilla de java)
+git clone https://github.com/gabmur92/ed.git
