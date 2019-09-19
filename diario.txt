@@ -1,5 +1,15 @@
-20190916 lv
+20190916: lv
 
 creado usuario en github(gabmur92)
 creado repositorio: ed con README.md y .gitignore (plantilla de java)
 git clone https://github.com/gabmur92/ed.git
+
+20190919: lv
+
+git config --global user.name gabmur92
+git config --global user.email gabmur@alu.iesserpis.org
+git config --global push.default simple
+
+git add diario.txt
+git commit -m "diatio.txt con introduccion a github y git"
+git push
