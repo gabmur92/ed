@@ -13,3 +13,14 @@ git config --global push.default simple
 git add diario.txt
 git commit -m "diatio.txt con introduccion a github y git"
 git push
+
+20190923: lv
+		|||maquina virtual|||
+
+serpisdam: RAM 2018 MB, disco 20GB, procesadores: 2
+usuario --> administrador
+equipo --> serpisdam
+clave -->  sistemas
+sudo -i : para ser root
+# apt update : para ver las actualizaciones que hay
+# apt full-upgrade : actualizar todo
