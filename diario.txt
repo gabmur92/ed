@@ -29,3 +29,5 @@ sudo -i : para ser root
 
 gcc -o holamundo holamundo.c
 ./holamundo
+instalar eclipse
+
