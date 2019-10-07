@@ -34,3 +34,7 @@ instalar eclipse
 20191003
 
 holamundo en eclipse	
+
+20191007
+
+funcionamiento de eclipse 
