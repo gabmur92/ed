@@ -31,10 +31,18 @@ gcc -o holamundo holamundo.c
 ./holamundo
 instalar eclipse
 
-20191003
+20191003: GM
 
 holamundo en eclipse	
 
-20191007
+20191007: GM
 
 funcionamiento de eclipse 
+
+20191010: GM
+
+actualizacion maquina virtual java
+add-apt-repository ppa:webupd8team/java
+instalacion eclipse maquina virtual
+
+
