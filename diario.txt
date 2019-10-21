@@ -45,4 +45,12 @@ actualizacion maquina virtual java
 add-apt-repository ppa:webupd8team/java
 instalacion eclipse maquina virtual
 
+20191410: GM
 
+ampliado ejercicio  adivina.
+y jsuma
+iniciado JVector
+
+20192110: GM
+ampliado ejercicio JAdivina
+y repaso
