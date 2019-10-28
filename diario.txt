@@ -54,3 +54,6 @@ iniciado JVector
 20192110: GM
 ampliado ejercicio JAdivina
 y repaso
+
+20192910: GM
+explicado en clase el v index como acceder a datos concretos.
