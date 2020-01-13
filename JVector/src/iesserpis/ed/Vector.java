@@ -3,32 +3,42 @@ package iesserpis.ed;
 public class Vector {
 
 	public static void main(String[] args) {
-//		int index=0;
+//		int[] v = new int[]{14, 21, 12, 7, 9};
+//		int x=33;
+//		int index= indexOf(v,x);
 //		
-//		int[] v = new int[]{17, 12, 15, 9, 14};
+//		System.out.println("index "+index);
+//		
+//		System.out.println("fin");
+//	
+//	}		
+//	public static int indexOf(int[] v, int x) {
 //
-//	//	for(index=0; index<5;index++) {
-// 		//System.out.println("elemento "+index+" valor = "+ v[index]);
-		int[] v = new int[]{17, 12, 15, 9, 14};
-		int x=33;
-		int index= indexOf(v,x);
-		
-		System.out.println("index "+index);
-		System.out.println("fin");
-	
-	}
-		
-	public static int indexOf(int[] v, int x) {
-		
-		int index=0;
-		while(index<v.length && v[index]!=x) 
-			index++;
-			if(index==v.length) { 
-				return -1;
-			}
-			return index;
-		
-		
+//		for(int index=0; index < v.length; index++)
+//			if(v[index]==x)
+//				return index;
+//		return -1;
 	}
 	
+	public static int max(int[] v){
+		int max=v[0];
+		for(int i=1; i<v.length; i++) {
+			
+			if(v[i] > max) 
+				max = v[i];		
+		}
+		return max;
+		
+	}
+	public static int selectionSort(int[] v){
+		int min=0;
+		int aux;
+		for(int i=1; i<v.length; i++) {	
+			if(v[i] >min ) 
+				aux=min;
+				min = v[i];		
+		}
+		return ;
+		
+	}
 }
