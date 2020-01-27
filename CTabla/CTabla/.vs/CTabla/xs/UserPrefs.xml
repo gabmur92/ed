@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2562BA07-EE0D-4178-9C73-6851C04B71E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CTabla/panel.cs">
+    <Files>
+      <File FileName="CTabla/Program.cs" Line="1" Column="1" />
+      <File FileName="CTabla/MainWindow.cs" Line="10" Column="35" />
+      <File FileName="CTabla/panel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CTabla" expanded="True">
+            <Node name="CTabla" expanded="True">
+              <Node name="panel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CTabla PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

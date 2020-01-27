@@ -1,0 +1,5 @@
+/home/gabmur/ed/CTabla/CTabla/CTabla/bin/Debug/CTabla.exe
+/home/gabmur/ed/CTabla/CTabla/CTabla/bin/Debug/CTabla.pdb
+/home/gabmur/ed/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.csprojAssemblyReference.cache
+/home/gabmur/ed/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.exe
+/home/gabmur/ed/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.pdb
