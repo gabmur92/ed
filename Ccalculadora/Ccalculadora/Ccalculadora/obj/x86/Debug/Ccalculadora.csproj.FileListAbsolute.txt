@@ -1,0 +1,5 @@
+/home/gabmur/Documentos/ed/Ccalculadora/Ccalculadora/Ccalculadora/bin/Debug/Ccalculadora.exe
+/home/gabmur/Documentos/ed/Ccalculadora/Ccalculadora/Ccalculadora/bin/Debug/Ccalculadora.pdb
+/home/gabmur/Documentos/ed/Ccalculadora/Ccalculadora/Ccalculadora/obj/x86/Debug/Ccalculadora.csprojAssemblyReference.cache
+/home/gabmur/Documentos/ed/Ccalculadora/Ccalculadora/Ccalculadora/obj/x86/Debug/Ccalculadora.exe
+/home/gabmur/Documentos/ed/Ccalculadora/Ccalculadora/Ccalculadora/obj/x86/Debug/Ccalculadora.pdb
